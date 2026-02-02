@@ -32,5 +32,9 @@ aim.Bot = false
  spin}
 spin}
 
+--WalkSpeed
+  do walkspeed
+  walk.Speed = 150
+  walk.Speed = true
  end}
 end}
